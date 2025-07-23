@@ -16,9 +16,13 @@
 		</Item>
 		<Item Name="SubVI" Type="Folder">
 			<Item Name="Add to Dictionary.vi" Type="VI" URL="../SubVI/Add to Dictionary.vi"/>
+			<Item Name="Check Empty Letter.vi" Type="VI" URL="../SubVI/Check Empty Letter.vi"/>
+			<Item Name="First Word Statistics by Any.vi" Type="VI" URL="../SubVI/First Word Statistics by Any.vi"/>
 			<Item Name="Letter Statistics Any Sort.vi" Type="VI" URL="../SubVI/Letter Statistics Any Sort.vi"/>
 			<Item Name="Letter Statistics.vi" Type="VI" URL="../SubVI/Letter Statistics.vi"/>
-			<Item Name="Word Statistics by Any.vi" Type="VI" URL="../SubVI/Word Statistics by Any.vi"/>
+			<Item Name="Word Check.vi" Type="VI" URL="../SubVI/Word Check.vi"/>
+			<Item Name="Word Clear.vi" Type="VI" URL="../SubVI/Word Clear.vi"/>
+			<Item Name="Word Filter Any Letter.vi" Type="VI" URL="../SubVI/Word Filter Any Letter.vi"/>
 			<Item Name="Word Statistics by Letter.vi" Type="VI" URL="../SubVI/Word Statistics by Letter.vi"/>
 		</Item>
 		<Item Name="Test" Type="Folder">
@@ -27,7 +31,9 @@
 		<Item Name="TypeDef" Type="Folder">
 			<Item Name="Letter Statistic.ctl" Type="VI" URL="../TypeDef/Letter Statistic.ctl"/>
 			<Item Name="Word Statistic.ctl" Type="VI" URL="../TypeDef/Word Statistic.ctl"/>
+			<Item Name="Word.ctl" Type="VI" URL="../TypeDef/Word.ctl"/>
 		</Item>
+		<Item Name="Word Game.vi" Type="VI" URL="../Word Game.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Application Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Application Directory.vi"/>
