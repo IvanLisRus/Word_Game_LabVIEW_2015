@@ -2,4 +2,4 @@
 
 Игра "5 букв" - аналог игры Wordle, где нужно угадать слово из 5 букв за 6 попыток. Каждая попытка должна быть существительным в единственном числе. Если буквы в этом слове нет, то она окрашивается серым, если есть, но на другом месте, то белым, если есть и на правильном месте, то желтым.
 
-![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
+![Image alt](https://github.com/IvanLisRus/Word_Game_LabVIEW_2015/blob/main/DOC/Game%20Word.png)
